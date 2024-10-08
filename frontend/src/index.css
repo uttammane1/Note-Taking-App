@@ -1,0 +1,39 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input, textarea {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.note-list {
+  margin-top: 20px;
+}
+
+.note-item {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.error {
+  color: red;
+  margin-bottom: 20px;
+}
+
+.spinner {
+  text-align: center;
+}
